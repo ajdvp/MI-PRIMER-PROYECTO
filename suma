@@ -1,0 +1,7 @@
+x = 5
+y = 8
+
+def suma(x, y):
+    return x + y
+
+print(suma(x, y))
